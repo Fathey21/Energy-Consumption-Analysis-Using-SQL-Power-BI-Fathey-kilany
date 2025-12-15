@@ -25,6 +25,15 @@ https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathe
 https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(73).png
 https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(72).png
 ________________________________________
+##ETL Process
+Power Query was used to perform data cleansing and transformations including removing duplicates, handling missing values, converting data types, creating DateTime and Cost columns, merging SQL data, and creating a Date Dimension table.
+________________________________________
+##Data Model
+A Star Schema data model was implemented with Energy Consumption as the fact table and Households, Regions, TariffPlans, and DateDim as dimension tables.
+________________________________________
+##Power BI Dashboard
+The Power BI dashboard includes KPIs, line charts, bar charts, tables, and slicers to analyze energy consumption trends and costs.
+________________________________________
 ##Evaluation & Questions
 The project will be evaluated based on understanding of:
 •	Data Warehouse design
