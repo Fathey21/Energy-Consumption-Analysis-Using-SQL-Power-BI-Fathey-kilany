@@ -18,3 +18,21 @@ A Star Schema design was implemented:
 •	Fact Table: EnergyConsumption
 •	Dimension Tables: Households, Regions, TariffPlans, DateDim
 This design improves query performance and analytical reporting.
+________________________________________
+Dashboard 
+https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(75).png
+https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(74).png
+https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(73).png
+https://github.com/Fathey21/Energy-Consumption-Analysis-Using-SQL-Power-BI-Fathey-kilany/blob/main/Screenshot%20(72).png
+________________________________________
+##Evaluation & Questions
+The project will be evaluated based on understanding of:
+•	Data Warehouse design
+•	ETL logic
+•	Power BI dashboard insights
+________________________________________
+##Final Notes to Students
+This project focuses on clarity, correctness, and simplicity. All components are documented and aligned with BI best practices.
+
+
+
